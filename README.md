@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @mdumbuya
-- 👀 I’m interested in Software Development, User experience Design, DevOps Engineering, Freelancing and Soccer
-- 🌱 I’m currently learning Java, User Experience Design and French
-- 💞️ I’m looking to collaborate on Java Freelancing Projects
+👋 Hi, I’m Moses Dumbuya (@mdumbuya)
+🚀 Passionate about Software Development, DevOps Engineering, and User-Centric Design
+🌟 Exploring innovative tech solutions and always eager to learn and grow
+🌱 Currently mastering Deno, ActivityPub, and the Fediverse
+🎥 Streaming programming activities and my learning journey in German on Twitch: BackyardCoding
+💡 Open to collaborations on ActivityPub projects, microservices architecture, and Java backend development
+⚽ Big fan of soccer and the great outdoors
 
 <!---
 mdumbuya/mdumbuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
